@@ -1,0 +1,7 @@
+module.exports = {
+    token:"ok",
+    prefix: "!"
+    pass: ""
+};
+
+/* remove .example from the name of this file */
